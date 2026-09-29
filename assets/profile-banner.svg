@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Abdul Hafiz Shaboq — Enterprise Architecture and Integration</title>
+<desc id="desc">Dark blue abstract architecture banner with a restrained teal accent.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1427"/><stop offset="1" stop-color="#142B46"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4ED6C2"/><stop offset="1" stop-color="#7AA9F4"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+<path d="M0 0H1200V300H0Z" fill="none" stroke="#FFFFFF" stroke-opacity=".12"/>
+<rect x="72" y="55" width="54" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="72" y="126" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing=".3">Abdul Hafiz Shaboq</text>
+<text x="74" y="170" fill="#B7CEE3" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400">Enterprise Solution Architect</text>
+<text x="74" y="239" fill="#7FE1D1" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">SAP S/4HANA  /  INTEGRATION  /  .NET</text>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65">
+  <path d="M876 74h108l60 58-64 76H858l-55-67z"/>
+  <path d="M984 74l-34 67 30 67M803 141h147l94-9"/>
+  <path d="M858 208l92-67"/>
+</g>
+<g fill="#64D6CB"><circle cx="876" cy="74" r="6"/><circle cx="984" cy="74" r="6"/><circle cx="1044" cy="132" r="6"/><circle cx="980" cy="208" r="6"/><circle cx="858" cy="208" r="6"/><circle cx="803" cy="141" r="6"/><circle cx="950" cy="141" r="6"/></g>
+</svg>
