@@ -1,4 +1,4 @@
-![Abdul Hafiz Shaboq — Enterprise Solution Architect](./assets/profile-banner.svg)
+![Abdul Hafiz Shaboq — Enterprise Solution Architect](./assets/profile-banner.png)
 
 I design and deliver enterprise applications that connect business processes, SAP, and modern software. Over 16 years, my work has grown from hands-on engineering into architecture and technical leadership across multi-company environments in the Middle East.
 
